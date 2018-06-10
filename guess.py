@@ -8,6 +8,7 @@ def guess():
 def cpuNumber():
     return random.randint(1, 20)
 
+
 count = 1
 cpuN = cpuNumber()
 print('I am thinking of a number between 1 and 20')
